@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MOVIES_LANDE/static/css/main.102598d5.css",
+    "main.js": "/MOVIES_LANDE/static/js/main.1bdaca8f.js",
+    "index.html": "/MOVIES_LANDE/index.html",
+    "static/media/search.svg": "/MOVIES_LANDE/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.102598d5.css.map": "/MOVIES_LANDE/static/css/main.102598d5.css.map",
+    "main.1bdaca8f.js.map": "/MOVIES_LANDE/static/js/main.1bdaca8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.102598d5.css",
+    "static/js/main.1bdaca8f.js"
+  ]
+}
