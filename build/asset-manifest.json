@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/React.js-Movies-Land-/static/css/main.102598d5.css",
-    "main.js": "/React.js-Movies-Land-/static/js/main.5895425d.js",
-    "index.html": "/React.js-Movies-Land-/index.html",
-    "static/media/search.svg": "/React.js-Movies-Land-/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
-    "main.102598d5.css.map": "/React.js-Movies-Land-/static/css/main.102598d5.css.map",
-    "main.5895425d.js.map": "/React.js-Movies-Land-/static/js/main.5895425d.js.map"
+    "main.css": "/MoviesLand/static/css/main.102598d5.css",
+    "main.js": "/MoviesLand/static/js/main.5bfbffdf.js",
+    "index.html": "/MoviesLand/index.html",
+    "static/media/search.svg": "/MoviesLand/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.102598d5.css.map": "/MoviesLand/static/css/main.102598d5.css.map",
+    "main.5bfbffdf.js.map": "/MoviesLand/static/js/main.5bfbffdf.js.map"
   },
   "entrypoints": [
     "static/css/main.102598d5.css",
-    "static/js/main.5895425d.js"
+    "static/js/main.5bfbffdf.js"
   ]
 }
